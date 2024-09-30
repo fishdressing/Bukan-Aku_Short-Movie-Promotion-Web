@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Akshar';
+    src: url(Fonts/Akshar/Akshar-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: 'Playfair Display SC Bold';
+    src: url(Fonts/Playfair_Display_SC/PlayfairDisplaySC-Bold.ttf);
+}
+@font-face {
+    font-family: 'Playfair Display';
+    src: url(Fonts/Playfair_Display/PlayfairDisplay-VariableFont_wght.ttf);
+}
+@font-face {
+    font-family: 'Abhaya Libre Regular';
+    src: url(Fonts/Abhaya_Libre/AbhayaLibre-Regular.ttf);
+}
+@font-face {
+    font-family: 'Abhaya Libre ExtraBold';
+    src: url(Fonts/Abhaya_Libre/AbhayaLibre-ExtraBold.ttf);
+}
+@font-face {
+    font-family: 'Calistoga';
+    src: url(Fonts/Calistoga/Calistoga-Regular.ttf);
+}
